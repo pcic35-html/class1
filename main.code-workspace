@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"editor.background": "#000",
+			"contrastBorder": "#0f0",
+			"statusBar.background": "#020",
+			"statusBar.border": "#0f0",
+			"statusBar.noFolderBackground": "#000",
+			"statusBar.foreground": "#0f0",
+			"statusBar.focusBorder": "#0000",
+			"sideBar.background": "#000",
+			"sideBar.border": "#0f0",
+			"sideBar.foreground": "#0f0",
+			"sideBarSectionHeader.border": "#0f0",
+			"sideBarSectionHeader.background": "#000",
+			"sideBarSectionHeader.foreground": "#0f0",
+		}
+	}
+}
